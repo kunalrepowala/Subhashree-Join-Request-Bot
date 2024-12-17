@@ -13,7 +13,7 @@ nest_asyncio.apply()
 ADMIN_ID = 6773787379
 
 # Bot File ID for the photo (replace with your actual file ID)
-file_id = "AgACAgQAAxkBAAMFZ2G8_-mrlGzicBEVpTbxsj-TgOgAApvJMRs5kghTXVE3hw20i-gBAAMCAAN5AAM2BA"
+file_id = "AgACAgQAAxkBAAMCZ2HDb6obJvEPEp9qJhZ6QsMOWuoAAlbFMRv1ORFTtVh02ftXt0sBAAMCAAN5AAM2BA"
 
 # List to store user IDs who interacted with the bot
 user_ids = set()  # Using a set to ensure unique user IDs
